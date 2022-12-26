@@ -1,5 +1,5 @@
 ## 👋 About Me :
-백엔드 주니어 개발자 정재훈입니다!
+백엔드 신입 개발자 정재훈입니다!
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
