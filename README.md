@@ -5,7 +5,7 @@
 👶 1993.10.28 <br>
 📞 010-3894-3964 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijung93@gmail.com)](mailto:orijung93@gmail.com) <span><a href="https://www.notion.so/70efed36129f4d67ba93864ab7f55b30"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijung93@gmail.com)](mailto:orijung93@gmail.com) <span><a href="https://scalloped-lan-dc3.notion.site/70efed36129f4d67ba93864ab7f55b30"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 <br/>
 
