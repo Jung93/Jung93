@@ -5,7 +5,7 @@
 👶 1993.10.28 <br>
 📞 010-3894-3964 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijung93@gmail.com)](mailto:orijung93@gmail.com)
+[![Gmail Badge]
 
 <br/>
 
