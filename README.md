@@ -5,7 +5,7 @@
 👶 1993.10.28 <br>
 📞 010-3894-3964 <br>
 
-[![Gmail Badge]
+[![Gmail Badge]]
 
 <br/>
 
